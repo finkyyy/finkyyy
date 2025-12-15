@@ -1,8 +1,6 @@
 <div align="center">
 
-🌸✨ Hello, I'm Fidelia ✨🌸  
-🎓 Informatics Student  
-
+🌸✨ Hello, I'm Fidelia Ping ✨🌸  
 ✨ learning step by step ✨
 
 </div>
@@ -10,7 +8,7 @@
 --- 🌸 ---
 
 ### 💗 About Me
-🌷 Mahasiswa Informatika  
+🎓 Mahasiswa Informatika  
 💻 Tertarik pada Web Development  
 🌱 Sedang belajar HTML, CSS, dan JavaScript  
 ✨ Suka desain yang rapi & feminin
