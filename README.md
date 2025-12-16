@@ -9,16 +9,8 @@
 
 ### 💗 About Me
 🎓 Mahasiswa Informatika  
-💻 Tertarik pada Web Development  
+💻 Tertarik pada Web Development & Machine Learning
 🌱 Sedang belajar HTML, CSS, dan JavaScript  
-✨ Suka desain yang rapi & feminin
-
---- 🌸 ---
-
-### 🎀 Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
 
 --- 🌸 ---
 
