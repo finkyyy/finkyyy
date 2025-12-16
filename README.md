@@ -9,7 +9,7 @@
 
 ### 💗 About Me
 🎓 Mahasiswa Informatika  
-💻 Tertarik pada Web Development & Machine Learning
+💻 Tertarik pada Web Development & Machine Learning  
 🌱 Sedang belajar HTML, CSS, dan JavaScript  
 
 --- 🌸 ---
