@@ -9,7 +9,7 @@
 
 ### 💗 About Me
 🎓 Mahasiswa Informatika  
-💻 Tertarik pada Web Development & Machine Learning  
+💻 Tertarik pada Cyber Security & Machine Learning  
 🌱 Sedang belajar segala hal IT  
 
 --- 🌸 ---
