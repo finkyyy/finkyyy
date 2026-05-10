@@ -22,9 +22,6 @@
 
 --- 🌸 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=finkyyy&show_icons=true&theme=calm)
-
 <div align="center">
 🛡️ learning cyber security, one step at a time 🛡️
 </div>
