@@ -1,7 +1,7 @@
 <div align="center">
 
 🌸✨ Hello, I'm Fidelia Ping ✨🌸  
-✨ learning step by step ✨
+🛡️ Cyber Security Enthusiast 🛡️
 
 </div>
 
@@ -9,15 +9,16 @@
 
 ### 💗 About Me
 🎓 Mahasiswa Informatika  
-💻 Tertarik pada Cyber Security & Machine Learning  
-🌱 Sedang belajar segala hal IT  
+🔐 Tertarik pada Cyber Security  
+💻 Sedang belajar dunia keamanan siber & teknologi  
+🌱 Keep learning step by step  
 
 --- 🌸 ---
 
-### 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-F48FB1?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-F8BBD0?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-FFD54F?style=flat&logo=javascript&logoColor=black)
+### 🛡️ Cyber Security Tools & Skills
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-90CAF9?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-64B5F6?style=flat&logo=wireshark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD54F?style=flat&logo=python&logoColor=black)
 
 --- 🌸 ---
 
@@ -25,5 +26,5 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=finkyyy&show_icons=true&theme=calm)
 
 <div align="center">
-✨ keep growing, even slowly ✨
+🛡️ learning cyber security, one step at a time 🛡️
 </div>
