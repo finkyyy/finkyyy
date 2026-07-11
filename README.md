@@ -40,6 +40,6 @@
 ---
 
 <div align="center">
-✨ <i>"Code, build, repeat – one feature at a time."</i> ✨
+✨ <i>"Code, build, repeat one feature at a time."</i> ✨
 </div>
 </div>
